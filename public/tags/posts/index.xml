@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>posts on Data Engineering Blog</title>
+    <link>https://db-dan.github.io/tags/posts/</link>
+    <description>Recent content in posts on Data Engineering Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Daniel Brookes</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://db-dan.github.io/tags/posts/index.xml" rel="self" type="application/rss+xml" /><icon>https://db-dan.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>https://db-dan.github.io/posts/my_first_post/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://db-dan.github.io/posts/my_first_post/</guid>
+      <description><![CDATA[<h2 id="this-is-a-header">This is a header</h2>
+<p>hello world!</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

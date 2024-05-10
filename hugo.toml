@@ -1,0 +1,26 @@
+baseURL = 'https://db-dan.github.io/'
+languageCode = 'en-gb'
+title = 'Data Engineering Blog'
+theme = 'dan'
+
+copyright = "Daniel Brookes"
+
+[params]
+	author = "Daniel Brookes"
+	description = "Data Engineering blog"
+	mobileHamburgerNav = true
+	enableFeatured = true
+
+
+[menu]
+    # these links (menu.icons) will be added as icon links below the main nav
+    [[menu.icons]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/db-dan/"
+        weight = 10
+    [[menu.icons]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/db-dan"
+        weight = 20

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Data Engineering Blog",
+  "short_name": "Data Engineering Blog",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#161618",
+  "theme_color": "#ff0ead"
+  
+    ,
+    "description": "Data Engineering blog"
+  
+  
+}
+

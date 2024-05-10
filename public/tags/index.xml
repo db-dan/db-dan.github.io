@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on Data Engineering Blog</title>
+    <link>https://db-dan.github.io/tags/</link>
+    <description>Recent content in Tags on Data Engineering Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Daniel Brookes</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://db-dan.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://db-dan.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>databricks</title>
+      <link>https://db-dan.github.io/tags/databricks/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://db-dan.github.io/tags/databricks/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>posts</title>
+      <link>https://db-dan.github.io/tags/posts/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://db-dan.github.io/tags/posts/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

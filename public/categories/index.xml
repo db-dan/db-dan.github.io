@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Categories on Data Engineering Blog</title>
+    <link>https://db-dan.github.io/categories/</link>
+    <description>Recent content in Categories on Data Engineering Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Daniel Brookes</copyright><atom:link href="https://db-dan.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><icon>https://db-dan.github.io/img/icon.svg</icon>
+    
+  </channel>
+</rss>
